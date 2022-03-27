@@ -17,6 +17,8 @@ import com.cybage.genworth.insurance.service.EmployeeService;
  *
  * @author Jeevan
  */
+
+//Represting our class as distributed component
 @RestController
 @RequestMapping("/employee")
 public class EmployeeController {

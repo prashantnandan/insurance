@@ -13,6 +13,7 @@ import com.cybage.genworth.insurance.service.UserService;
  *
  * @author Jeevan
  */
+//Represting our class as distributed component
 @RestController
 public class LoginController {
 
